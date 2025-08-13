@@ -1,5 +1,17 @@
 # Sound-Steps
 
-Sound Steps is a innovative project that aims to revolutionize navigation for visually impaired individuals. This repository includes codes for the 3D sound creation and implemention and its UI for field testing with individuals.
-The UI allows the tester to send 3d Sounds from 8 different directions to see how well visually impaired individuals can identify where the sound is coming from. The results obtained from these tests showed us that
-giving directions to people using 3D sounds incorporated into music is much more effective than plain words of directions.
+Sound Steps is an innovative project designed to revolutionize navigation for visually impaired individuals.
+
+1. This repository contains:
+
+3D Sound Generation Code: Algorithms for creating spatial audio cues.
+
+User Interface (UI): A testing interface used in field trials with visually impaired participants.
+
+2. Project Overview:
+
+The UI allows testers to send 3D audio cues from 8 different directions, enabling evaluation of how accurately participants can identify the sound’s origin.
+
+3. Key Findings:
+
+Field tests revealed that providing navigation cues through 3D sounds embedded in music was significantly more effective than using plain verbal instructions.
